@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 页面title字体大小 -->
+    <dimen name="actionbar_title_size">22dp</dimen>
+    
+    <!-- 加载框属性 -->
+    <dimen name="loading_dialog_width">170dp</dimen>
+    <dimen name="loading_dialog_height">70dp</dimen>
+    <dimen name="loading_dialog_text_size">8.5dp</dimen>
+
+</resources>
