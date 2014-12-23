@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 重新加载text -->
+    <color name="reload_text_color">#999999</color>
+
+     <!-- 页面title -->
+    <color name="actionbar_title_v3">#595757</color>
+    
+    <color name="text_color_v3">#999999</color>
+    
+</resources>
